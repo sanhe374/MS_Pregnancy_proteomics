@@ -15,5 +15,5 @@ contains the scripts that were used to generate some of the plots shown in the m
 
 ## :writing_hand: Authors
 
-Sandra Hellberg [sandra.hellberg@liu.se]
+Sandra Hellberg [sandra.hellberg@liu.se] <br />
 Georgia Papapavalou [georgia.papapavlou.lingehed@liu.se]
