@@ -13,4 +13,7 @@ scripts used for the differential protein expression
 contains the scripts that were used to generate some of the plots shown in the manuscript.  
 
 
-I just want to test if this works
+## writing_hand Authors:
+
+Sandra Hellberg [sandra.hellberg@liu.se]
+Georgia Papapavalou [georgia.papapavlou.lingehed@liu.se]
