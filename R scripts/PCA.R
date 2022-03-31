@@ -19,7 +19,7 @@ for (i in 1:length(pack_R)) {
   library(pack_R[i], character.only = TRUE)
 }
 
-set.seed(23)
+set.seed(140)
 
 
 # 1. Importation and formatting the input data----------------------------------
