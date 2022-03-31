@@ -2,10 +2,9 @@
 
 This repository contains the code that was used for analyis and visualization of the data included in the paper "insert title here". 
 
-	- Differential expression analysis
- 	- PCA
-	- Correlations between protein and hormone levels
-		- correlation plots
+- Differential expression analysis
+- PCA
+- Correlations between protein and hormone levels
 
 Data can be made available upon request. All code has been written in R version 4.1.3. 
 
