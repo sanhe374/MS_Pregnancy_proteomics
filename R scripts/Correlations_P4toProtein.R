@@ -28,6 +28,12 @@ md <- read_excel("Md_Olink.xlsx") # read in meta data file
 md <- data.frame(md) # convert to a data frame
 md$Sample_ID <- gsub("P", "", md$Sample_ID)
 
+# Extract data frame with sample ID and status
+md_status <- md[,c("Sample_ID","Individual")]
+rownames(md_status) <- md_status$Sample_ID
+md_status <- md_status[,-1,drop=FALSE]
+md_status <- md_status[order(rownames(md_status)),,drop=FALSE]
+
 # proteins
 proteins <- read_excel("proteins_Olink.xlsx") # read in protein data
 proteins <- data.frame(proteins)
