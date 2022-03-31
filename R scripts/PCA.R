@@ -137,10 +137,11 @@ delta_PP <- delta[,idx_PP]
 idx_tokeep <- colnames(delta_PP)
 md_PP <- md_clean[md_clean$Sample_ID %in% colnames(delta_PP),]
 
-pca_PP <- prcomp(t(delta_PP)) # to calculate the principle components the methylation matrix must be transposed
+pca_PP <- prcomp(t(delta_PP)) 
 autoplot(pca_PP, data=md_PP, colour="Individual", size=10) +
   theme_classic() +
   grids(linetype="dashed")
 
 all(md_PP$Sample_ID==colnames(delta_PP))
 
+# End of script-----------------------------------------------------------------
