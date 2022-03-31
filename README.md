@@ -1,4 +1,4 @@
-# MSPregnancy_proteomics
+# MS_Pregnancy_proteomics
 
 This repository contains the code that was used for analyis and visualization of the data included in the paper "insert title here". 
 
