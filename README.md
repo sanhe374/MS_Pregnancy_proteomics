@@ -2,8 +2,8 @@
 
 This repository contains the code that was used for analyis and visualization of the data included in the paper "insert title here". 
 
-- Differential expression analysis
-- PCA
+- Differential expression analysis (including Volcano plots)
+- Principle component analysus
 - Correlations between protein and hormone levels
 	- Progesterone
 	- Estrogen
