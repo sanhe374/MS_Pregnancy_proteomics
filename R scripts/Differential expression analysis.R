@@ -26,10 +26,10 @@ for (i in 1:length(pack_R)) {
 
 
 # 1. Import and format input data-----------------------------------------------
-md <- read_excel("Md_Olink.xlsx") # read in meta data file
+md <- read_excel("Md_Olink_newID.xlsx") # read in meta data file
 md <- data.frame(md) # convert to a data frame
 
-proteins <- read_excel("proteins_Olink.xlsx") # read in protein data
+proteins <- read_excel("proteins_Olink_newID.xlsx") # read in protein data
 proteins <- data.frame(proteins)
 
 rownames(proteins) <- proteins$mediator_name # set protein name to row names
@@ -39,6 +39,10 @@ rownames(proteins_numeric) <- rownames(proteins)
 proteins <- as.matrix(proteins_numeric)
 
 stopifnot(colnames(proteins) == md$Sample_ID)
+
+# Remove P4 and E2 from the protein data
+row_names_df_to_remove<-c("P4","E2")
+proteins <- proteins[!(row.names(proteins) %in% row_names_df_to_remove),]
 
 # 2. Filtering and subsetting--------------------------------------------------- 
 

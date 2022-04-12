@@ -1,6 +1,6 @@
 # MS_Pregnancy_proteomics
 
-This repository contains the code that was used for analyis and visualization of the data included in the paper "insert title here". 
+This repository contains the code that was used for analyis and visualization of the data included in the paper **"Plasma protein profiling reveals dynamic immunomodulatory changes in multiple sclerosis patients during pregnancy "**. 
 
 - Differential expression analysis (including Volcano plots)
 - Principle component analysus
@@ -8,7 +8,7 @@ This repository contains the code that was used for analyis and visualization of
 	- Progesterone
 	- Estrogen
 
-Data can be made available upon request. All code has been written in R version 4.1.3. 
+The raw data can be found in Supplemental Table 2 in the article. All code has been written in R version 4.1.3. 
 
 ## :writing_hand: Authors
 
