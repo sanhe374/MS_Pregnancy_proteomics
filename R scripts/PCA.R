@@ -36,6 +36,10 @@ proteins <- data.frame(proteins_numeric)
 
 rm(proteins_numeric)
 
+# Remove P4 and E2 from the protein data
+col_names_df_to_remove<-c("P4","E2")
+proteins <- proteins[,!(colnames(proteins) %in% col_names_df_to_remove)]
+
 # 2. Filtering and subsetting--------------------------------------------------- 
 
 # remove healthy controls (HC) from the data prior to downstream analysis
