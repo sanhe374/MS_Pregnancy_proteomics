@@ -3,7 +3,7 @@
 This repository contains the code that was used for analyis and visualization of the data included in the paper *"Plasma protein profiling reveals dynamic immunomodulatory changes in multiple sclerosis patients during pregnancy "*. 
 
 - Differential expression analysis (including Volcano plots)
-- Principle component analysus
+- Principle component analysis
 - Correlations between protein and hormone levels
 	- Progesterone
 	- Estrogen
