@@ -29,7 +29,7 @@ for (i in 1:length(pack_R)) {
 md <- read_excel("Md_Olink_newID.xlsx") # read in meta data file
 md <- data.frame(md) # convert to a data frame
 
-proteins <- read_excel("proteins_Olink_newID.xlsx") # read in protein data
+proteins <- read_excel("proteins_Olink.xlsx") # read in protein data
 proteins <- data.frame(proteins)
 
 rownames(proteins) <- proteins$mediator_name # set protein name to row names

@@ -41,7 +41,7 @@ md_status <- md_status[,-1,drop=FALSE]
 md_status <- md_status[order(rownames(md_status)),,drop=FALSE]
 
 # proteins
-proteins <- read_excel("proteins_Olink_newID.xlsx") # read in protein data
+proteins <- read_excel("proteins_Olink.xlsx") # read in protein data
 proteins <- data.frame(proteins)
 rownames(proteins) <- proteins$mediator_name
 proteins <- proteins[,-1]
