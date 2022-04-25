@@ -1,15 +1,15 @@
 # Plasma protein profiling reveals dynamic immunomodulatory changes in multiple sclerosis patients during pregnancy 
 
-*Georgia Papapavlou Lingehed <sup>1†*</sup>, Sandra Hellberg<sup>2†</sup>, Jesse Huang<sup>3</sup>, Mohsen Khademi<sup>3</sup>, Ingrid Kockum<sup>3</sup>, Hanna Carlsson<sup>4</sup>, Ivar Tjernberg<sup>4</sup>, Maria Svenvik<sup>5</sup>, Jonas Lind<sup>6</sup>, Charlotte Dahle<sup>7</sup>, Magnus Vrethem<sup>8</sup>, Johan Mellergård<sup>8</sup>, Mika Gustafsson<sup>2</sup>, Maria C. Jenmalm<sup>1</sup>, Tomas Olsson<sup>3</sup>, Jan Ernerudh<sup>7*</sup>    
+*Georgia Papapavlou Lingehed <sup>1†</sup>, Sandra Hellberg<sup>2†</sup>, Jesse Huang<sup>3</sup>, Mohsen Khademi<sup>3</sup>, Ingrid Kockum<sup>3</sup>, Hanna Carlsson<sup>4</sup>, Ivar Tjernberg<sup>4</sup>, Maria Svenvik<sup>5</sup>, Jonas Lind<sup>6</sup>, Charlotte Dahle<sup>7</sup>, Magnus Vrethem<sup>8</sup>, Johan Mellergård<sup>8</sup>, Mika Gustafsson<sup>2</sup>, Maria C. Jenmalm<sup>1</sup>, Tomas Olsson<sup>3</sup>, Jan Ernerudh<sup>7</sup>*    
 
-<sup>1</sup>Division of Inflammation and Infection, Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden
-<sup>2</sup>Division of Bioinformatics, Department of Physics, Chemistry and Biology, Linköping University, Linköping, Sweden
-<sup>3</sup>Neuroimmunology Unit, Department of Clinical Neuroscience, Center for Molecular Medicine, Karolinska University Hospital, Karolinska Institute, Stockholm, Sweden
-<sup>4</sup>Department of Clinical Chemistry and Transfusion Medicine, Region Kalmar County, Kalmar and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden
-<sup>5</sup>Department of Obstetrics and Gynecology, Region Kalmar County, Kalmar, Sweden and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden
-<sup>6</sup>Department of Neurology, Region Jönköping County, Jönköping, Sweden and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden
-<sup>7</sup>Department of Clinical Immunology and Transfusion Medicine, and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden
-<sup>8</sup>Department of Neurology, University Hospital Linköping and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden
+<sup>1</sup>Division of Inflammation and Infection, Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
+<sup>2</sup>Division of Bioinformatics, Department of Physics, Chemistry and Biology, Linköping University, Linköping, Sweden.
+<sup>3</sup>Neuroimmunology Unit, Department of Clinical Neuroscience, Center for Molecular Medicine, Karolinska University Hospital, Karolinska Institute, Stockholm, Sweden.
+<sup>4</sup>Department of Clinical Chemistry and Transfusion Medicine, Region Kalmar County, Kalmar and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
+<sup>5</sup>Department of Obstetrics and Gynecology, Region Kalmar County, Kalmar, Sweden and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
+<sup>6</sup>Department of Neurology, Region Jönköping County, Jönköping, Sweden and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
+<sup>7</sup>Department of Clinical Immunology and Transfusion Medicine, and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
+<sup>8</sup>Department of Neurology, University Hospital Linköping and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
 
 
 
@@ -31,18 +31,18 @@ Multiple sclerosis (MS) is a chronic autoimmune neuroinflammatory and neurodegen
 
 | Package       | Version       | Source         |
 | ------------- | ------------- |---------------
-| ´corrplot´      | 0.92          | CRAN (R 4.2.0) |
-| ´dplyr´         | 1.0.7         | CRAN (R 4.2.0) |
-| ´ggfortify´     | 0.4.14        | CRAN (R 4.2.0) |
-| ´ggplot2´       | 3.3.5         | CRAN (R 4.2.0) |
-| ´ggpubr´        | 0.4.0         | CRAN (R 4.2.0) |
-| gridExtra     | 2.3           | CRAN (R 4.2.0) |
-| hrbrthemes    | 0.8.0         | CRAN (R 4.2.0) |
-| MASS          | 7.3-56        | CRAN (R 4.2.0) |
-| pheatmap      | 1.0.12        | CRAN (R 4.2.0) |
-| ppcor         | 1.1           | CRAN (R 4.2.0) |
-| readxl        | 1.3.1         | CRAN (R 4.2.0) |
-| stringr       | 1.4.0         | CRAN (R 4.2.0) |
+| `corrplot`      | 0.92          | CRAN (R 4.2.0) |
+| `dplyr`         | 1.0.7         | CRAN (R 4.2.0) |
+| `ggfortify`     | 0.4.14        | CRAN (R 4.2.0) |
+| `ggplot2`       | 3.3.5         | CRAN (R 4.2.0) |
+| `ggpubr`        | 0.4.0         | CRAN (R 4.2.0) |
+| `gridExtra`     | 2.3           | CRAN (R 4.2.0) |
+| `hrbrthemes`    | 0.8.0         | CRAN (R 4.2.0) |
+| `MASS`          | 7.3-56        | CRAN (R 4.2.0) |
+| `pheatmap`      | 1.0.12        | CRAN (R 4.2.0) |
+| `ppcor`         | 1.1           | CRAN (R 4.2.0) |
+| `readxl`        | 1.3.1         | CRAN (R 4.2.0) |
+| `stringr`       | 1.4.0         | CRAN (R 4.2.0) |
 
 
 ## :writing_hand: Authors
