@@ -22,6 +22,7 @@ Multiple sclerosis (MS) is a chronic autoimmune neuroinflammatory and neurodegen
 | ------------- | ------------- |---------------
 | corrplot      | 0.92          | CRAN (R 4.2.0) |
 | dplyr         | 1.0.7         | CRAN (R 4.2.0) |
+| ggfortify     | 0.4.14        | CRAN (R 4.2.0) |
 | ggplot2       | 3.3.5         | CRAN (R 4.2.0) |
 | ggpubr        | 0.4.0         | CRAN (R 4.2.0) |
 | gridExtra     | 2.3           | CRAN (R 4.2.0) |
@@ -31,8 +32,6 @@ Multiple sclerosis (MS) is a chronic autoimmune neuroinflammatory and neurodegen
 | ppcor         | 1.1           | CRAN (R 4.2.0) |
 | readxl        | 1.3.1         | CRAN (R 4.2.0) |
 | stringr       | 1.4.0         | CRAN (R 4.2.0) |
-| readxl        | 1.3.1         | CRAN (R 4.2.0) |
-
 
 
 ## :writing_hand: Authors
