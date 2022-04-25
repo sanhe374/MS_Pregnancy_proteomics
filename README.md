@@ -2,15 +2,18 @@
 
 *Georgia Papapavlou Lingehed <sup>1†</sup>, Sandra Hellberg<sup>2†</sup>, Jesse Huang<sup>3</sup>, Mohsen Khademi<sup>3</sup>, Ingrid Kockum<sup>3</sup>, Hanna Carlsson<sup>4</sup>, Ivar Tjernberg<sup>4</sup>, Maria Svenvik<sup>5</sup>, Jonas Lind<sup>6</sup>, Charlotte Dahle<sup>7</sup>, Magnus Vrethem<sup>8</sup>, Johan Mellergård<sup>8</sup>, Mika Gustafsson<sup>2</sup>, Maria C. Jenmalm<sup>1</sup>, Tomas Olsson<sup>3</sup>, Jan Ernerudh<sup>7</sup>*    
 
-<sup>1</sup>Division of Inflammation and Infection, Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
-<sup>2</sup>Division of Bioinformatics, Department of Physics, Chemistry and Biology, Linköping University, Linköping, Sweden.
-<sup>3</sup>Neuroimmunology Unit, Department of Clinical Neuroscience, Center for Molecular Medicine, Karolinska University Hospital, Karolinska Institute, Stockholm, Sweden.
-<sup>4</sup>Department of Clinical Chemistry and Transfusion Medicine, Region Kalmar County, Kalmar and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
-<sup>5</sup>Department of Obstetrics and Gynecology, Region Kalmar County, Kalmar, Sweden and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
-<sup>6</sup>Department of Neurology, Region Jönköping County, Jönköping, Sweden and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
-<sup>7</sup>Department of Clinical Immunology and Transfusion Medicine, and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
-<sup>8</sup>Department of Neurology, University Hospital Linköping and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
+<sup>1</sup>Division of Inflammation and Infection, Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.<br />
+<sup>2</sup>Division of Bioinformatics, Department of Physics, Chemistry and Biology, Linköping University, Linköping, Sweden.<br />
+<sup>3</sup>Neuroimmunology Unit, Department of Clinical Neuroscience, Center for Molecular Medicine, Karolinska University Hospital, Karolinska Institute, Stockholm, Sweden.<br />
+<sup>4</sup>Department of Clinical Chemistry and Transfusion Medicine, Region Kalmar County, Kalmar and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.<br />
+<sup>5</sup>Department of Obstetrics and Gynecology, Region Kalmar County, Kalmar, Sweden and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.<br />
+<sup>6</sup>Department of Neurology, Region Jönköping County, Jönköping, Sweden and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.<br />
+<sup>7</sup>Department of Clinical Immunology and Transfusion Medicine, and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.<br />
+<sup>8</sup>Department of Neurology, University Hospital Linköping and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.<br />
 
+<sup>†</sup> These authors have contributed equally to this work and share first authorship. 
+
+Correspondance to Georgia Papapavlou Lingehed [georgia.papapavlou.lingehed@liu.se]
 
 The raw data can be found in Supplemental Table 2 in the article. 
 
