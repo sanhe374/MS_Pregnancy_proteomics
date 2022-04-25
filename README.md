@@ -12,13 +12,6 @@
 <sup>8</sup>Department of Neurology, University Hospital Linköping and Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden.
 
 
-
-- Differential expression analysis (including Volcano plots)
-- Principle component analysis
-- Correlations between protein and hormone levels
-	- Progesterone
-	- Estrogen
-
 The raw data can be found in Supplemental Table 2 in the article. 
 
 ## Abstract:
