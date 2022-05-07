@@ -27,31 +27,31 @@ Multiple sclerosis (MS) is a chronic autoimmune neuroinflammatory and neurodegen
 
 | Package       | Version       | Source         |
 | ------------- | ------------- |---------------
-| `assertthat`      |          | CRAN |
-| `BiocParalell`      |          | Bioconductor |
+| `assertthat`      | 0.2.1         | CRAN |
+| `BiocParalell`      |  1.29.21  | Bioconductor |
 | `corrplot`      | 0.92          | CRAN  |
 | `dplyr`         | 1.0.7         | CRAN  |
-| `edgeR`     |         | Bioconductor |
-| `EnchancedVolcano`     |         | Bioconductor |
+| `edgeR`     |  3.37.4       | Bioconductor |
+| `EnchancedVolcano`     | 1.13.2        | Bioconductor |
 | `ggfortify`     | 0.4.14        | CRAN  |
 | `ggplot2`       | 3.3.5         | CRAN  |
 | `ggpubr`        | 0.4.0         | CRAN  |
-| `Glimma`        |        | Bioconductor  |
-| `ggrepel`        |        | CRAN |
+| `Glimma`        |  2.5.3      | Bioconductor  |
+| `ggrepel`        |  0.9.1      | CRAN |
 | `gridExtra`     | 2.3           | CRAN  |
 | `hrbrthemes`    | 0.8.0         | CRAN  |
-| `limma`    |        | Bioconductor  |
+| `limma`    | 3.51.8       | Bioconductor  |
 | `MASS`          | 7.3-56        | CRAN  |
-| `patchwork`          |         | CRAN  |
+| `patchwork`          | 1.1.1        | CRAN  |
 | `pheatmap`      | 1.0.12        | CRAN  |
 | `ppcor`         | 1.1           | CRAN  |
-| `RColorBrewer`         |           | CRAN  |
+| `RColorBrewer`         | 1.1-3          | CRAN  |
 | `readxl`        | 1.3.1         | CRAN  |
-| `statmod`        |         | CRAN  |
+| `statmod`        | 1.4.36        | CRAN  |
 | `stringr`       | 1.4.0         | CRAN  |
-| `sva`       |         | Bioconductor |
-| `tidyr`       |          | CRAN  |
-| `tidyverse`       |          | CRAN  |
+| `sva`       |   3.15      | Bioconductor |
+| `tidyr`       | 1.2.0         | CRAN  |
+| `tidyverse`       |    1.3.1      | CRAN  |
 
 
 
