@@ -70,7 +70,7 @@ for (i in 1:length(proteins)) {
   corr_E2[2,i] <- corr[[3]]
 }
 
-rownames(corr_E2) <- c("r", "p_val")
+rownames(corr_E2) <- c("p", "p_val")
 colnames(corr_E2) <- colnames(proteins)
 
 corr_E2 <- t(corr_E2)
